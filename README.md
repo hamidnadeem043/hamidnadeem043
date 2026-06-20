@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/hamid-nadeem043)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hamidnadeemn043@gmail.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://ai-chatbot-react-tailwind.vercel.app)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://skillbridge-gamma-eight.vercel.app)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hamidnadeem043)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamidnadeem043&color=1a56b0&style=flat-square&label=Profile+Views)
@@ -21,11 +21,11 @@
 
 ## About Me
 
-I'm a **BS Software Engineering** student at Superior University, Lahore (CGPA: 3.3), currently in my 4th semester. I started my development journey through Apna College's full-stack program — building projects from the ground up until they actually worked.
+I'm a **BS Software Engineering** student at Superior University, Lahore (CGPA: 3.3), currently in my 5th semester. I started my development journey through Apna College's full-stack program — building projects from the ground up until they actually worked.
 
 That foundation led me to two back-to-back internships where I worked on real production code: shipping full-stack MERN features at **Decode Labs** and building data-connected React interfaces at **Oasis Infobyte**.
 
-I build things I'm genuinely proud of — a freelancer marketplace with Stripe payments and real-time messaging, an AI chatbot powered by the Gemini API, and an Inventory Management System with session auth and a polished glass-morphism UI.
+I build things I'm genuinely proud of — a freelance marketplace with Stripe payments and real-time messaging, an AI chatbot powered by the Gemini API, a blog CMS with JWT-protected routes, and an Inventory Management System with session auth and a polished glass-morphism UI.
 
 > 📍 Lahore, Pakistan &nbsp;·&nbsp; 📧 hamidnadeemn043@gmail.com &nbsp;·&nbsp; 🟢 Open to junior roles & internships
 
@@ -39,6 +39,7 @@ I build things I'm genuinely proud of — a freelancer marketplace with Stripe p
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -73,6 +74,7 @@ I build things I'm genuinely proud of — a freelancer marketplace with Stripe p
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -99,15 +101,15 @@ I build things I'm genuinely proud of — a freelancer marketplace with Stripe p
 
 ## 💼 Professional Experience
 
-**MERN Stack Web Development Intern** &nbsp;·&nbsp; [Decode Labs](https://github.com/hamidnadeem043) &nbsp;·&nbsp; *May 2026 – Jun 2026 · Remote*
+**MERN Stack Web Development Intern** &nbsp;·&nbsp; [Decode Labs](https://github.com/hamidnadeem043) &nbsp;·&nbsp; *May 2026 – Present · Remote*
 
 - Built full-stack features using React, Node.js, Express, and MongoDB
 - Designed and documented RESTful API endpoints
 - Resolved bugs across the full stack and participated in structured code reviews
 
-**Design & Implementation Intern** &nbsp;·&nbsp; [Oasis Infobyte](https://github.com/hamidnadeem043) &nbsp;·&nbsp; *May 2026 – Present · Remote*
+**Full-Stack Web Development Intern** &nbsp;·&nbsp; [Oasis Infobyte](https://github.com/hamidnadeem043) &nbsp;·&nbsp; *May 2026 · Remote*
 
-- Converted Figma/design specs into reusable, modular React components
+- Built responsive React apps with clean component architecture
 - Integrated frontend views with backend REST endpoints for live data rendering
 
 ---
@@ -116,10 +118,10 @@ I build things I'm genuinely proud of — a freelancer marketplace with Stripe p
 
 | # | Project | Description | Stack | Link |
 |---|---------|-------------|-------|------|
-| 01 | 🤖 **AI Chatbot** | Real-time AI responses, markdown rendering & persistent chat history | React · Tailwind · Gemini API | [**Live ↗**](https://ai-chatbot-react-tailwind.vercel.app) |
-| 02 | 🏪 **Freelancer Hub** | Full marketplace — real-time messaging, Stripe payments, JWT auth & media uploads | MERN · Socket.io · Stripe · Redux | [GitHub ↗](https://github.com/hamidnadeem043) |
-| 03 | 📦 **Inventory Management System** | Admin session auth, product CRUD, low-stock alerts, glass-morphism UI | Node.js · Express · MySQL · EJS | [GitHub ↗](https://github.com/hamidnadeem043) |
-| 04 | 📝 **Blog CMS** | Multi-user platform with JWT-protected routes & full CRUD operations | MERN · JWT | [GitHub ↗](https://github.com/hamidnadeem043) |
+| 01 | 🏪 **SkillBridge** | Full freelance marketplace — real-time messaging, Stripe payments, JWT auth, Cloudinary uploads & reviews | MERN · Socket.io · Stripe · Redux · Tailwind | [**Live ↗**](https://skillbridge-gamma-eight.vercel.app) |
+| 02 | 🤖 **AI Chatbot** | Real-time AI responses, markdown rendering & persistent chat history | React · Tailwind · Gemini API | [**Live ↗**](https://ai-chatbot-react-tailwind.vercel.app) |
+| 03 | 📝 **Inkwell** | Full-stack blog CMS with JWT-protected routes, custom hooks & complete CRUD operations | MERN · JWT · Context API | [**Live ↗**](https://inkwell-blog-cms.vercel.app) |
+| 04 | 📦 **Inventory Management System** | Session-based admin auth, product CRUD, low-stock alerts, glass-morphism UI | Node.js · Express · MySQL · EJS | [**Live ↗**](https://inventory-management-system-production-1962.up.railway.app) |
 | 05 | 🎮 **Simon Says Game** | Progressive memory game with difficulty scaling — zero dependencies | Vanilla JS · HTML · CSS | [GitHub ↗](https://github.com/hamidnadeem043) |
 
 > **More on GitHub →** To-Do App &nbsp;·&nbsp; Pizza Delivery App &nbsp;·&nbsp; Bus Reservation GUI (Java) &nbsp;·&nbsp; Spotify UI Clone
@@ -158,6 +160,7 @@ I build things I'm genuinely proud of — a freelancer marketplace with Stripe p
 | 📊 GenAI Powered Data Analytics Simulation | Tata / Forage | May 2026 |
 | 💻 Front-End Software Engineering Simulation | Skyscanner / Forage | May 2026 |
 | 🤖 Robotics & Controls Simulation | Johnson & Johnson / Forage | May 2026 |
+| 🧠 Prompt Engineering for Everyone | Cognitive Class (IBM) | May 2026 |
 | 🖥️ Computer Foundations Certificate (Office 2019) | Peak Solution College | Oct 2022 |
 
 ---
@@ -166,6 +169,6 @@ I build things I'm genuinely proud of — a freelancer marketplace with Stripe p
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1a56b0&height=80&section=footer" />
 
-*"Every expert was once a beginner — keep building, keep growing."*
+*"I see solutions where others see dead ends. Problem-solver by nature, loyal to the work, and I don't stop until it's fixed."*
 
 </div>
